@@ -152,4 +152,4 @@ def on_message(bot: Bot, event: Event):
 
 bot.run()
 ```
-技术QQ:1332356386
+技术:tts1837
