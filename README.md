@@ -101,7 +101,7 @@ WeChatHook 是一个功能强大的 Python 微信机器人框架，基于 DLL �
 pip install wxhook
 ```
 
-## 使用示例（技术微信:tts1837）
+## 使用示例（技术QQ:3628048254）
 
 ```python
 # import os
@@ -152,4 +152,4 @@ def on_message(bot: Bot, event: Event):
 
 bot.run()
 ```
-技术:tts1837
+技术QQ:3628048254
